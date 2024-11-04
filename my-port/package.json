@@ -17,6 +17,9 @@
   "test": "react-scripts test",
   "eject": "react-scripts eject"
 },
+"dependencies": {
+  "@fontsource/roboto": "^5.1.0"
+},
   "eslintConfig": {
     "extends": [
       "react-app",
